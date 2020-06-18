@@ -1,0 +1,170 @@
+au
+ar
+pg
+bo
+cl
+py
+pe
+uy
+br
+ec
+ao
+bw
+bi
+km
+sz
+ls
+mg
+mw
+mu
+yt
+mz
+na
+re
+rw
+sc
+za
+tz
+zm
+zw
+cg
+cd
+ga
+tl
+id
+ws
+ck
+fj
+pf
+nr
+nz
+nc
+um
+nu
+nf
+pn
+as
+wf
+sb
+tk
+to
+tv
+vu
+ki
+sh
+aus
+arg
+png
+bol
+chl
+pry
+per
+ury
+bra
+ecu
+ago
+bwa
+bdi
+com
+swz
+lso
+mdg
+mwi
+mus
+myt
+moz
+nam
+reu
+rwa
+syc
+zaf
+tza
+zmb
+zwe
+cog
+cod
+gab
+tls
+idn
+wsm
+asm
+cok
+fji
+pyf
+umi
+nru
+nzl
+ncl
+niu
+nfk
+pcn
+shn
+wlf
+slb
+tkl
+ton
+tuv
+vut
+kir
+australia
+papua new guinea
+argentina
+bolivia
+chile
+paraguay
+peru
+uruguay
+brazil
+ecuador
+angola
+botswana
+burundi
+comoros
+eswatini
+lesotho
+madagascar
+malawi
+mauritius
+mayotte
+mozambique
+namibia
+reunion
+rwanda
+seychelles
+south africa
+tanzania
+zambia
+zimbabwe
+congo
+the democratic republic of congo
+democratic republic of congo
+gabon
+east timor
+timor-leste
+indonesia
+american samoa
+samoa
+cook islands
+the cook islands
+coral sea islands
+easter island
+fiji
+french polynesia
+tahiti
+jarvis island
+nauru
+new caledonia
+new zealand
+niue
+norfolk island
+pitcairn
+pitcairn islands
+salas y gómez island
+samoa
+solomon islands
+tokelau
+tonga
+tuvalu
+vanuatu
+wallis and futuna
+kiribati
